@@ -1,0 +1,97 @@
+h1, h2 {
+    display: inline-block;
+    font-family: "Monotype Corsiva";
+    color: white;
+    margin-left: 21.6em;
+    margin-right: 10em;
+    font-size:20px;
+}
+.up_text{
+  font-family: "Monotype Corsiva";
+  margin-left: 27.0em;
+  margin-right: -27.3em;
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .7em 5.6em;
+  outline: none;
+  border: 1.5px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+}
+.Title{
+  font-family: "Monotype Corsiva";
+  font-size: 200px;
+  margin-left: 2.1em;
+  margin-top: .5em;
+  color: white;
+
+}
+.down_text{
+  font-family: "Monotype Corsiva";
+  margin-top: 13em;
+  margin-left: 44em;
+  margin-right: -40em;
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .8em 3em;
+  outline: none;
+  background-color: #B89900;
+  border: 1.5px;
+  border-radius: 30px;
+  transition: 0.2s;
+}
+.down_text:hover, .up_text:hover{
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  background: #b8860b;
+}
+.bg_one{
+  ;
+  height: 965px;
+  width: 1864px;
+  background: url('one_copy.jpg');
+
+}
+.bg_two{
+  height: 963.5px;
+  width: 1864px;
+  background-color:  #474A51;
+}
+.cube_text p{
+  text-align: center;
+  vertical-align:middle;
+  line-height: 40px;
+}
+.cube_text{
+  margin-left: 31em;
+  margin-top: 12.3em;
+  height: 400px;
+  width: 800px;
+  display: inline-block;
+  color: white;
+  font-family: "Monotype Corsiva";
+  font-weight: 300;
+  text-decoration: none;
+  user-select: none;
+  padding: 5em 7em;
+  outline: none;
+  background-color: #474A51;
+  border: 1.5px solid;
+}
+.bokal{
+  height: 700px;
+  width: 600px;
+  color: white;
+  background-image: url('png.png');
+
+}
+html, body{
+  height: 1928.5px;
+  margin: 0;
+  padding: 0
+}
